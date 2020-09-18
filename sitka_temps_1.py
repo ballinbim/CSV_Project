@@ -22,7 +22,9 @@ import matplotlib.pyplot as plt
 
 plt.plot(highs, c = "red")
 
-plt.title("Daily High Temp, July 2018". fontsize = 16)
+plt.title("Daily High Temp, July 2018", fontsize = 16)
 plt.xlabel("")
 plt.ylabel("Temperature (F)",  fontsize = 16)
 plt.tick_params(axis = "both", which = "major", labelsize = 16)
+
+plt.show()
