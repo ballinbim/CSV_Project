@@ -51,3 +51,4 @@ plt.tick_params(axis = "both", labelsize = 16)
 fig.autofmt_xdate()
 
 plt.show()
+print("GANG")
